@@ -1,5 +1,8 @@
 # beginers
 
+Following can be found in the project
+-------------------------------------
+
 # ViewBinding 
 to achieve we are to add following in the gradle file
 buildFeatures {
