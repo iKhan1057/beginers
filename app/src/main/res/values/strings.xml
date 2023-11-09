@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BeginerApp</string>
+    <string name="home">Users</string>
+    <string name="details">UserDetails</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="editdetails">Edit User Details</string>
+    <string name="submit">Submit</string>
+    <string name="title">Title</string>
 </resources>

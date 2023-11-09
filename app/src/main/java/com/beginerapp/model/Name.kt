@@ -1,7 +1,9 @@
 package com.beginerapp.model
 
+import java.io.Serializable
+
 data class Name(
-    val first: String,
-    val last: String,
-    val title: String
-)
+    var first: String,
+    var last: String,
+    var title: String
+): Serializable

@@ -1,5 +1,7 @@
 package com.beginerapp.model
 
+import java.io.Serializable
+
 data class Result(
     val cell: String,
     val dob: Dob,
@@ -13,4 +15,4 @@ data class Result(
     val phone: String,
     val picture: Picture,
     val registered: Registered
-)
+):Serializable
