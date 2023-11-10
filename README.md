@@ -34,7 +34,7 @@ to update the changes being made in the edit screen in all the previous screens 
 acieved by adding following in the theme
 <item name="colorSecondary">@color/user_item_bg</item>
 <item name="android:navigationBarColor">@color/user_item_bg</item>
-<img src="..\\B8ph4.png"/>
+<img src="B8ph4.png"/>
 
 # Circular Image Viee for profile Image
 achieved by libs added in gradle
