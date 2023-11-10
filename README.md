@@ -30,8 +30,8 @@ being used to set as homepage bg
 # LocalBroadCast
 to update the changes being made in the edit screen in all the previous screens i.e List and Details
 
-# Update color of title bar and Bottom Navbar
-acieved by adding following in the theme
+# Update color of title bar and Bottom Navbar(to understand better refer image attached)
+achieved by adding following in the theme
 <item name="colorSecondary">@color/user_item_bg</item>
 <item name="android:navigationBarColor">@color/user_item_bg</item>
 <img src="B8ph4.png"/>
